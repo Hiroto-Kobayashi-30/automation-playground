@@ -1,0 +1,12 @@
+# Local config — never commit
+config.py
+config.json
+
+
+
+# State file — local only
+state.json
+
+# Python cache
+__pycache__/
+*.pyc
